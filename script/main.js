@@ -32,7 +32,7 @@ const checkAnswer =()=>{
             Swal.fire({
                 title: "Congrats!",
                 text: "You receive a free ticket for the long journey package at BXsea!",
-                imageUrl: "file:///E:/My%20Data/decya/Birthday/img/gift.jpeg",
+                imageUrl: "https://prabszx10.github.io/decya_birthday/img/gift.jpeg",
                 imageWidth: 400,
                 imageHeight: 422,
                 imageAlt: "Custom image"
